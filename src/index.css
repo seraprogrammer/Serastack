@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.active {
+  color: #00ff88;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 0 0 5px #00ff88, 0 0 10px #00ff88;
+  transition: all 0.3s ease;
+  border-bottom: 2px solid #00ff88;
+  background: linear-gradient(90deg, #003322 0%, #005533 100%);
+  padding: 5px 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 255, 136, 0.4);
+}
