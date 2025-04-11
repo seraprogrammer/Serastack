@@ -1,4 +1,4 @@
-# 🚀 Serastack
+# 🍦 Serastack
 
 Serastack is a modern React starter template designed to help developers kickstart their projects with speed and simplicity.
 
